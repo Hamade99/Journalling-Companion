@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: digitized_journal
+Version: 0.1.0
+Summary: A journal application with OCR for handwritten notes
+Author: Ahmad M
+Author-email: hellehamade@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: pytesseract>=0.3.9
+Requires-Dist: opencv-python>=4.5.5
+Requires-Dist: sqlalchemy>=1.4.0
+Requires-Dist: pillow>=9.0.0
+Requires-Dist: markdown>=3.3.0
+Requires-Dist: reportlab>=3.6.0
+Provides-Extra: web
+Requires-Dist: streamlit>=1.10.0; extra == "web"
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: black>=22.0.0; extra == "dev"
+Requires-Dist: flake8>=4.0.0; extra == "dev"
+Dynamic: author
+Dynamic: author-email
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

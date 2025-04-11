@@ -1,0 +1,16 @@
+2025-04-11 10:51:41,773 - __main__ - INFO - Starting Digital Journal Application
+2025-04-11 10:51:41,892 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:51:41,892 - __main__ - INFO - Database initialized
+2025-04-11 10:51:42,240 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:52:46,565 - __main__ - INFO - Starting Digital Journal Application
+2025-04-11 10:52:46,582 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:52:46,582 - __main__ - INFO - Database initialized
+2025-04-11 10:52:46,584 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:53:17,385 - __main__ - INFO - Starting Digital Journal Application
+2025-04-11 10:53:17,400 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:53:17,401 - __main__ - INFO - Database initialized
+2025-04-11 10:53:17,619 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:54:13,452 - __main__ - INFO - Starting Digital Journal Application
+2025-04-11 10:54:13,468 - digitized_journal.database.db_interface - INFO - Database initialized successfully
+2025-04-11 10:54:13,469 - __main__ - INFO - Database initialized
+2025-04-11 10:54:13,695 - digitized_journal.database.db_interface - INFO - Database initialized successfully

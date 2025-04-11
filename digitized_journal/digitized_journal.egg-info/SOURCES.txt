@@ -1,0 +1,9 @@
+README.md
+setup.py
+digitized_journal.egg-info/PKG-INFO
+digitized_journal.egg-info/SOURCES.txt
+digitized_journal.egg-info/dependency_links.txt
+digitized_journal.egg-info/entry_points.txt
+digitized_journal.egg-info/requires.txt
+digitized_journal.egg-info/top_level.txt
+tests/tests_ocr.py

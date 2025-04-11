@@ -1,0 +1,16 @@
+# Core dependencies
+pytesseract>=0.3.9
+opencv-python>=4.5.5
+sqlalchemy>=1.4.0
+pillow>=9.0.0
+markdown>=3.3.0
+reportlab>=3.6.0
+
+# Optional dependencies
+streamlit>=1.10.0  # Web interface
+pandas>=1.4.0      # For data analysis in web interface
+
+# Development tools
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
